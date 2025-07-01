@@ -1,6 +1,6 @@
 # Ships with four or more flag states in five years
 9137648	Former flags: SL, CK, PW, CM
-9153525	Former flags: PW, CM, PW, GA, KN, LR, MH
+9153525	Former flags: PW, CM, PW, GA, KN
 9183295	Former flags: SL, CK, PW, CM
 9205067	Former flags: SL, BB, CK, PW, CM
 9224283	Former flags: GM, CK, TG, CK, KN
@@ -8,7 +8,7 @@
 9232929	Former flags: AG, LR, DE, MT, CY
 9233741	Former flags: KM, SL, DE, VN, VN
 9234642	Former flags: AG, LR, PW, LR, PA
-9236353	Former flags: AG, LR, PW, DJ, PW, CY, LR
+9236353	Former flags: AG, LR, PW, DJ, PW
 9243148	Former flags: RU, PW, LR, LR, SG
 9247883	Former flags: VU, BB, CK, PW, TV
 9249312	Former flags: KM, BB, PA, CK, PW, PA, PW, PA
@@ -19,28 +19,24 @@
 9274434	Former flags: KM, DJ, GA, KN
 9274800	Former flags: ST, DJ, GA, KN
 9276561	Former flags: GM, CK, KN, LR
-9277735	Former flags: TZ, GW, MH, LR
 9277747	Former flags: PW, CK, LR, CM, PA
-9278064	Former flags: SL, CK, PW, SG
 9281011	Former flags: DJ, GA, MN, KN
-9283291	Former flags: BB, CK, PW, LR, MH
+9283291	Former flags: BB, CK, PW, LR
 9285835	Former flags: KM, HN, CK, MH
 9285859	Former flags: KM, TZ, HN, CK, MH
 9288708	Former flags: KM, HN, CK, LR
-9288710	Former flags: KM, TZ, HN, CK, LR
-9288722	Former flags: KM, TZ, HN, CK, LR
+9288710	Former flags: KM, TZ, HN, CK
+9288722	Former flags: KM, TZ, HN, CK
 9288746	Former flags: KM, DJ, GA, KN
 9288851	Former flags: KM, BB, GA, LR
 9288863	Former flags: GM, CK, SM, KN
 9290517	Former flags: PA, GA, MN, KN
 9291250	Former flags: KM, BB, GW, MH
 9293002	Former flags: KM, GW, GA, MN, KN, LR
-9293117	Former flags: AG, LR, DE, MH
 9299769	Former flags: KM, BB, PA, CK, PW
 9299862	Former flags: PA, MN, GA, KN
 9299898	Former flags: TZ, HN, CK, ID, NU
-9302023	Former flags: DJ, PA, MT, LR
-9304356	Former flags: VU, BB, CK, KM, PA, VU
+9304356	Former flags: VU, BB, CK, KM, PA
 9304825	Former flags: GW, PA, GA, KN
 9307815	Former flags: PW, DJ, PA, GA, KN
 9308821	Former flags: SL, PA, CK, LR
@@ -52,7 +48,7 @@
 9321706	Former flags: MN, GA, KN, LR
 9323376	Former flags: TZ, KM, PA, CK
 9327372	Former flags: DJ, GA, KN, LR
-9332810	Former flags: DJ, GA, MN, KN, MH
+9332810	Former flags: DJ, GA, MN, KN
 9332834	Former flags: DJ, PA, GA, MN, KN
 9334557	Former flags: PA, GW, GA, MT
 9336426	Former flags: PW, PA, KN, MH
@@ -76,6 +72,5 @@
 9599341	Former flags: RU, PA, MT, PW
 9655470	Former flags: RU, PA, MT, PW
 9826902	Former flags: KM, TZ, BB, GA
-9849887	Former flags: KM, BB, GA, LR
 9864837	Former flags: RU, PA, PW, SG
 9901037	Former flags: KM, BB, PA, CY
