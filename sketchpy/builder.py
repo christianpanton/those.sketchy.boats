@@ -77,7 +77,7 @@ def build():
         boats.append(build_result[imo].json())
 
     for imo in sorted(missing_metadata):
-        print("Missing metadata for IMO:", imo)
+        print(len(build_result[imo].tags), imo, "Missing metadata")
         
     return {
         "boats": boats,
