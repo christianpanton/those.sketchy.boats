@@ -16,6 +16,14 @@ from re import split
 from glob import glob
 from pathlib import Path
 
+def validate_imo(imo):
+    digits = list(map(int, list(str(imo))))
+    chkdigit = digits.pop()
+    weights = [7, 6, 5, 4, 3, 2]
+    calcchk = sum(map(lambda x: x[0]*x[1], zip(digits, weights))) % 10
+    if chkdigit != calcchk:
+        raise Exception("Invalid IMO: %d, check digit failure" % imo)
+
 def load_file(filename: str):    
     header = None
     imos = []
@@ -46,6 +54,7 @@ def load_file(filename: str):
                 line_split = split(r"\s", line, 1)
                 
                 imo = int(line_split[0])
+                validate_imo(imo)
                 imos.append(imo)
                                 
                 if len(line_split) > 1:
