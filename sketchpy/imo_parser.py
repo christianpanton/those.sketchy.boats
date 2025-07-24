@@ -58,7 +58,10 @@ def load_file(filename: str):
                 imos.append(imo)
                                 
                 if len(line_split) > 1:
-                    imoc[imo] = line_split[1].strip()
+                    if imo in imoc.keys():
+                        imoc[imo] += "\n" + line_split[1].strip()
+                    else:
+                        imoc[imo] = line_split[1].strip()
                     
                 
             
