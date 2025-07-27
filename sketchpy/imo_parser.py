@@ -19,10 +19,13 @@ from pathlib import Path
 def validate_imo(imo):
     digits = list(map(int, list(str(imo))))
     chkdigit = digits.pop()
+    while len(digits) < 6:
+        digits.insert(0, 0)
     weights = [7, 6, 5, 4, 3, 2]
     calcchk = sum(map(lambda x: x[0]*x[1], zip(digits, weights))) % 10
     if chkdigit != calcchk:
-        raise Exception("Invalid IMO: %d, check digit failure" % imo)
+        return False
+    return True
 
 def load_file(filename: str):    
     header = None
@@ -54,8 +57,11 @@ def load_file(filename: str):
                 line_split = split(r"\s", line, 1)
                 
                 imo = int(line_split[0])
-                validate_imo(imo)
-                imos.append(imo)
+                
+                if validate_imo(imo):
+                    imos.append(imo)
+                else:
+                    print("Ignore IMO, did not validate", imo)
                                 
                 if len(line_split) > 1:
                     if imo in imoc.keys():
