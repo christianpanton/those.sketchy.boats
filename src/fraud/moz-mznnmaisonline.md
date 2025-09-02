@@ -1,0 +1,11 @@
+# The vessel was listed on a [false Mozambique Maritime Administration](https://mznmais.online/)
+9436018
+9165932
+9251810
+9294331
+9252979
+9261610
+9247792
+9321689
+9285859
+9188788
