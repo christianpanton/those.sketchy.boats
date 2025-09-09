@@ -9,6 +9,7 @@ class SketchyBoat(object):
         self.name = None
         self.flag = None
         self.imo = None
+        self.mmsi = None
         self.lat = None
         self.lon = None
         
@@ -17,6 +18,9 @@ class SketchyBoat(object):
         
     def set_imo(self, imo):
         self.imo = imo
+        
+    def set_mmsi(self, mmsi):
+        self.mmsi = mmsi
         
     def set_flag(self, flag):
         self.flag = flag
@@ -72,10 +76,11 @@ def build():
             
             if imo in ship_metadata: 
                 build_result[imo].set_name(ship_metadata[imo][0])
-                build_result[imo].set_flag(ship_metadata[imo][1])
+                build_result[imo].set_mmsi(ship_metadata[imo][1])
+                build_result[imo].set_flag(ship_metadata[imo][2])
                 
-                if ship_metadata[imo][2] != "NULL" and ship_metadata[imo][3] != "NULL":
-                     build_result[imo].set_latlon(int(ship_metadata[imo][2]), int(ship_metadata[imo][3]))
+                if ship_metadata[imo][3] != "NULL" and ship_metadata[imo][4] != "NULL":
+                     build_result[imo].set_latlon(int(ship_metadata[imo][3]), int(ship_metadata[imo][4]))
                     
             else:
                 missing_metadata.add(imo) 
