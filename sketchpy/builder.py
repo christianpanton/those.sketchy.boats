@@ -77,7 +77,10 @@ def build():
             
             if imo in ship_metadata: 
                 build_result[imo].set_name(ship_metadata[imo][0])
-                build_result[imo].set_mmsi(ship_metadata[imo][1])
+                
+                if ship_metadata[imo][2] != "NULL":
+                    build_result[imo].set_mmsi(ship_metadata[imo][1])
+    
                 build_result[imo].set_flag(ship_metadata[imo][2])
                 
                 if ship_metadata[imo][3] != "NULL" and ship_metadata[imo][4] != "NULL":
