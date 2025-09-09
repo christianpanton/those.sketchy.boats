@@ -52,6 +52,7 @@ class SketchyBoat(object):
                         
         return {
             "imo": self.imo,
+            "mmsi": self.mmsi,
             "name": self.name,
             "lat": self.lat,
             "lon": self.lon,
