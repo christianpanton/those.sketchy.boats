@@ -42,7 +42,6 @@
 8832112	Former flags: 🇱🇻 🇧🇿  🏳️  🇬🇼
 8837227	Former flags:  🏳️  🇹🇬  🏳️  🇹🇬 🇵🇦
 8844232	Former flags: 🇰🇲 🇹🇬 🇹🇿  🏳️ 
-8848563	Former flags: 🇰🇲 🇹🇿  🏳️  🇸🇱
 8864335	Former flags: 🇰🇲 🇹🇿 🇲🇳 🇸🇱  🏳️  🇨🇲 🇹🇻
 8864957	Former flags: 🇰🇲 🇹🇿  🏳️  🇧🇿
 8890724	Former flags:  🏳️  🇸🇱  🏳️  🇸🇱
@@ -56,6 +55,7 @@
 9018464	Former flags: 🇬🇲 🇹🇿  🏳️  🇹🇿
 9035838	Former flags:  🏳️  🇰🇲 🇹🇿 🇰🇲
 9036894	Former flags:  🏳️  🇵🇼  🏳️  🇵🇼
+9037123	Former flags: 🇨🇲  🏳️  🇵🇦 🇨🇳
 9040883	Former flags: 🇰🇲 🇬🇦 🇵🇦 🇻🇺
 9050620	Former flags: 🇲🇹 🇵🇦  🏳️  🇵🇦
 9056739	Former flags:  🏳️  🇰🇲  🏳️  🇨🇲
@@ -80,12 +80,11 @@
 9134361	Former flags: 🇰🇲 🇨🇲  🏳️  🇸🇱 🇬🇦
 9136113	Former flags:  🏳️  🇵🇼  🏳️  🇬🇼  🏳️ 
 9141912	Former flags:  🏳️  🇬🇼  🏳️  🇻🇺
-9153525	Former flags:  🏳️  🇵🇼 🇨🇲 🇵🇼  🏳️  🇬🇦 🇰🇳
+9153525	Former flags: 🇷🇺  🏳️  🇵🇼 🇨🇲 🇵🇼  🏳️  🇬🇦 🇰🇳
 9160475	Former flags: 🇵🇼 🇵🇼 🇮🇲 🇲🇹
 9162916	Former flags: 🇵🇼 🇨🇲 🇹🇿 🇬🇾
 9170913	Former flags: 🇰🇳 🇹🇬 🇰🇳 🇹🇬 🇹🇬 🇧🇧
 9171345	Former flags: 🇰🇳 🇵🇼 🇵🇦 🇱🇷
-9174361	Former flags: 🇰🇲 🇬🇦 🇮🇲 🇲🇹
 9175016	Former flags: 🇹🇿 🇬🇼 🇻🇨 🇱🇷
 9175078	Former flags: 🇨🇲 🇬🇲  🏳️  🇵🇦
 9181194	Former flags:  🏳️  🇬🇲  🏳️  🇨🇲  🏳️ 
@@ -103,15 +102,16 @@
 9208473	Former flags: 🇹🇿 🇵🇼 🇵🇦 🇰🇲
 9213313	Former flags: 🇧🇧 🇬🇦 🇵🇦  🏳️  🇬🇼 🇵🇼
 9216298	Former flags: 🇷🇺 🇵🇼 🇵🇼 🇱🇷
-9217979	Former flags: 🇷🇺 🇵🇼 🇷🇺 🇵🇼 🇷🇺 🇲🇭
+9217979	Former flags: 🇵🇼 🇷🇺 🇵🇼 🇷🇺 🇲🇭 🇷🇺
 9220938	Former flags:  🏳️  🇬🇲  🏳️  🇨🇰
 9220940	Former flags:  🏳️  🇬🇲 🇨🇰 🇵🇼
 9221267	Former flags:  🏳️  🇵🇦 🇵🇼 🇨🇰
-9222443	Former flags: 🇸🇹 🇹🇿 🇰🇲 🇵🇦  🏳️  🇰🇳
+9222443	Former flags:  🏳️  🇸🇹 🇹🇿 🇰🇲 🇵🇦  🏳️  🇰🇳
 9224283	Former flags: 🇬🇲 🇨🇰 🇹🇬 🇨🇰 🇰🇳
 9224439	Former flags: 🇨🇲 🇵🇼 🇵🇦 🇱🇷
 9227443	Former flags: 🇸🇱  🏳️  🇸🇱 🇻🇳
 9229374	Former flags: 🇸🇱  🏳️  🇸🇱 🇨🇲
+9230880	Former flags:  🏳️  🇷🇺 🇵🇦 🇵🇼
 9231509	Former flags: 🇨🇲 🇧🇧  🏳️  🇧🇿 🇱🇷 🇬🇦
 9232888	Former flags: 🇸🇱 🇬🇲 🇵🇦 🇨🇰 🇵🇼
 9233208	Former flags: 🇨🇲  🏳️  🇹🇿 🇨🇰 🇵🇦
@@ -120,12 +120,14 @@
 9234642	Former flags:  🏳️  🇱🇷 🇦🇬 🇦🇬 🇱🇷 🇵🇼 🇱🇷
 9235725	Former flags:  🏳️  🇬🇲  🏳️  🇵🇦
 9236004	Former flags:  🏳️  🇬🇲  🏳️  🇵🇦
-9236353	Former flags: 🇦🇬 🇱🇷 🇵🇼  🏳️ 
+9236353	Former flags: 🇨🇲 🇦🇬 🇱🇷 🇵🇼  🏳️ 
+9236640	Former flags: 🇷🇺  🏳️  🇬🇦 🇱🇷
 9237632	Former flags:  🏳️  🇭🇰 🇵🇦 🇩🇯
 9237797	Former flags: 🇧🇧 🇨🇰 🇵🇦 🇱🇷
 9240512	Former flags:  🏳️  🇧🇧  🏳️  🇵🇦
 9243148	Former flags: 🇷🇺 🇵🇼 🇱🇷 🇱🇷 🇸🇬
 9246279	Former flags:  🏳️  🇬🇲  🏳️  🇨🇲
+9247443	Former flags: 🇨🇲 🇨🇲  🏳️  🇬🇲 🇵🇦
 9247780	Former flags:  🏳️  🇰🇲  🏳️  🇵🇦
 9247883	Former flags: 🇸🇱 🇻🇺 🇧🇧 🇨🇰 🇵🇼 🇹🇻
 9247986	Former flags: 🇰🇲 🇱🇷 🇵🇦 🇬🇦
@@ -257,6 +259,7 @@
 9317949	Former flags: 🇸🇱 🇰🇲 🇩🇯 🇬🇦  🏳️  🇲🇳 🇰🇳
 9318034	Former flags: 🇨🇲  🏳️  🇬🇦 🇰🇳 🇲🇭
 9318539	Former flags: 🇨🇲 🇰🇲 🇭🇳 🇨🇰
+9318541	Former flags: 🇷🇺 🇰🇲 🇧🇧 🇬🇦
 9318553	Former flags: 🇷🇺 🇰🇲 🇧🇧 🇬🇦
 9319674	Former flags: 🇸🇱 🇬🇲  🏳️  🇩🇯  🏳️  🇬🇦 🇰🇳  🏳️ 
 9319703	Former flags: 🇴🇲 🇬🇲 🇰🇲 🇬🇦
@@ -296,7 +299,6 @@
 9337901	Former flags: 🇨🇲  🏳️  🇵🇼  🏳️  🇩🇯 🇬🇦 🇰🇳
 9339337	Former flags: 🇴🇲 🇰🇲 🇧🇧 🇬🇦
 9341079	Former flags: 🇴🇲 🇰🇲 🇧🇧 🇬🇦
-9345178	Former flags:  🏳️  🇰🇲  🏳️  🇵🇦
 9345623	Former flags:  🏳️  🇸🇱  🏳️  🇵🇼  🏳️  🇵🇦 🇬🇦 🇵🇦 🇱🇷
 9346744	Former flags: 🇸🇱  🏳️  🇵🇼 🇵🇦
 9346873	Former flags: 🇨🇲 🇵🇼  🏳️  🇵🇦
@@ -382,7 +384,7 @@
 9575199	Former flags: 🇱🇷 🇱🇷 🇸🇬 🇸🇬
 9576818	Former flags: 🇮🇩  🏳️  🇳🇺 🇵🇦 🇮🇳
 9577082	Former flags: 🇷🇺 🇬🇲 🇰🇲 🇧🇧 🇬🇦
-9597927	Former flags: 🇹🇬 🇰🇲 🇨🇲  🏳️ 
+9597927	Former flags: 🇹🇬 🇹🇬 🇰🇲 🇨🇲  🏳️ 
 9599341	Former flags: 🇷🇺 🇵🇦 🇵🇼 🇲🇹
 9610781	Former flags: 🇴🇲 🇰🇲 🇧🇧 🇬🇦
 9616735	Former flags: 🇵🇦 🇩🇪 🇱🇷 🇩🇪
@@ -392,9 +394,9 @@
 9631149	Former flags: 🇨🇲 🇰🇲  🏳️  🇰🇳
 9645968	Former flags: 🇨🇦 🇳🇴 🇧🇧 🇨🇦 🇳🇴
 9655470	Former flags: 🇷🇺 🇵🇦 🇲🇹 🇵🇼
-9661845	Former flags:  🏳️  🇦🇬 🇵🇭  🏳️  🇨🇰
+9661845	Former flags: 🇧🇧 🇵🇭  🏳️  🇦🇬  🏳️  🇵🇭 🇨🇰
 9672301	Former flags: 🇦🇬 🇨🇰  🏳️  🇨🇰
-9673202	Former flags:  🏳️  🇬🇲 🇰🇲 🇧🇧 🇵🇦 🇱🇷
+9673202	Former flags: 🇷🇺  🏳️  🇬🇲 🇰🇲 🇧🇧 🇵🇦 🇱🇷
 9715270	Former flags: 🇷🇺 🇵🇼 🇷🇺 🇵🇦
 9720263	Former flags: 🇷🇺 🇵🇼 🇷🇺 🇵🇦
 9737187	Former flags: 🇷🇺 🇧🇧  🏳️  🇵🇦
