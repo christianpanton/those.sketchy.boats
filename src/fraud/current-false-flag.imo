@@ -1,11 +1,11 @@
 1019527	Benin
-1021570	Guyana
+1021570	Guatemala
 1029223	Aruba
-1041764	Comoros
 1048190	Eswatini
 1049675	Eswatini
-1052476	MALI
+1052476	Nicaragua
 1052660	Sint Maarten
+1060277	Madagascar
 1066099	Eswatini
 1066594	MALI
 1066922	Nicaragua
@@ -16,7 +16,6 @@
 1091898	Guyana
 1095973	Comoros
 1113646	Comoros
-1138347	Aruba
 1142283	Comoros
 5427784	Sao Tome & Principe
 6403424	MALI
@@ -45,14 +44,17 @@
 7417197	Tanzania
 7506613	Guyana
 7514517	Zambia
+7529445	Nicaragua
 7534440	Mongolia
 7615232	Sao Tome & Principe
+7700207	MALI
 7701768	Fiji
 7706407	Fiji
 7707243	Tanzania
 7711177	Comoros
 7714272	Comoros
 7715422	Guyana
+7723273	Angola
 7802598	MALI
 7805904	Tanzania
 7807641	Benin
@@ -85,6 +87,7 @@
 8410603	Fiji
 8413150	Democratic Republic of Congo
 8416853	Angola
+8420713	Guyana
 8508395	Comoros
 8508838	Equatorial Guinea
 8519681	MALI
@@ -133,11 +136,11 @@
 8858996	TOGO
 8863317	Democratic Republic of Congo
 8873740	Democratic Republic of Congo
-8876924	Sao Tome & Principe
 8888549	Comoros
-8889892	Tanzania
+8889866	Nicaragua
 8897526	Comoros
 8910354	Timor Leste
+8910897	Senegal
 8912546	Madagascar
 8914934	Fiji
 8919233	Tanzania
@@ -147,38 +150,40 @@
 8923533	Tanzania
 8932340	Comoros
 8942905	Tanzania
-8947412	Comoros
 8954532	Madagascar
 8955043	TOGO
 8960799	TOGO
-8982888	Aruba
+8982888	Nicaragua
 8994415	Comoros
-8999881	Curacao
 9000687	Cameroon
 9002491	Mozambique
+9002908	Aruba
 9005053	Angola
 9005065	Aruba
-9005338	Aruba
+9005338	Nicaragua
 9007386	Aruba
-9008108	Angola
+9008108	Nicaragua
 9010060	Comoros
 9011442	Equatorial Guinea
 9012886	Angola
 9013701	Botswana
 9014420	Comoros
 9014432	Cameroon
-9014456	Madagascar
+9014456	Nicaragua
 9015981	Tanzania
 9019793	Comoros
 9020443	Sint Maarten
 9028108	Democratic Republic of Congo
-9031519	Samoa
+9031519	Nicaragua
 9033787	Tanzania
 9034690	Botswana
 9034705	Botswana
 9036313	Sao Tome & Principe
+9037123	Nicaragua
 9038763	Botswana
 9041655	Guyana
+9044009	Cameroon
+9044061	Cameroon
 9045807	MALI
 9046435	Tanzania
 9046784	Angola
@@ -187,36 +192,39 @@
 9054743	Comoros
 9057551	Timor Leste
 9058816	TOGO
-9066203	Comoros
 9070072	Guyana
 9072642	Comoros
 9072886	Tanzania
-9082398	Benin
 9088524	Aruba
 9088536	Madagascar
 9088653	Botswana
-9102198	Guyana
+9102198	Nicaragua
 9102239	Tanzania
-9102241	Comoros
+9102241	Guyana
 9102277	Comoros
 9103518	Comoros
 9104316	Tanzania
 9105085	Guyana
 9108099	Botswana
+9109122	Nicaragua
 9110250	Curacao
 9113094	Aruba
 9113379	Nicaragua
-9115303	Angola
+9115303	Nicaragua
 9115391	Comoros
 9115561	Kiribati
+9116632	Nicaragua
 9117428	TOGO
 9117507	Guinea
-9118991	Belize
+9119725	Guyana
 9120281	Guinea
+9122461	Guyana
+9122473	Aruba
 9124976	Madagascar
 9125724	Aruba
 9127667	Angola
 9131101	Sao Tome & Principe
+9131539	Guatemala
 9133109	Nicaragua
 9134165	Cameroon
 9134294	Madagascar
@@ -238,11 +246,13 @@
 9157478	Botswana
 9157765	Guyana
 9158161	Curacao
+9158240	Senegal
 9160360	Tanzania
 9160475	Sint Maarten
 9162928	Guinea
 9163269	Comoros
 9166156	Madagascar
+9166675	Nicaragua
 9166807	Comoros
 9167162	Nicaragua
 9171357	Curacao
@@ -256,7 +266,9 @@
 9177806	Mozambique
 9179701	Guyana
 9180152	Curacao
+9180164	Nicaragua
 9180621	Madagascar
+9181194	Gambia
 9181649	Aruba
 9182291	Curacao
 9185346	Botswana
@@ -265,11 +277,11 @@
 9186625	Nicaragua
 9187368	Sint Maarten
 9189146	Comoros
-9190078	Aruba
+9190078	Nicaragua
 9190274	Botswana
-9191553	St.Kitts & Nevis
 9191711	Guyana
 9192258	Guyana
+9192442	Guyana
 9193721	Angola
 9194127	Guyana
 9194139	Comoros
@@ -277,10 +289,11 @@
 9196448	MALI
 9197337	Tanzania
 9197727	Guyana
+9197832	Nicaragua
 9197844	Curacao
 9197909	Malawi
 9198082	Tonga
-9198094	Guyana
+9198094	Senegal
 9198290	Gambia
 9198317	Guyana
 9203265	Botswana
@@ -290,29 +303,32 @@
 9203930	Guyana
 9204776	Eritrea
 9204805	Guyana
-9208215	Curacao
+9208215	Malawi
 9208239	Comoros
 9212400	Comoros
 9212759	Guyana
 9216547	Guinea
 9216559	Guyana
+9216717	Malawi
 9218181	Comoros
 9218301	Nicaragua
 9219056	Guyana
 9220146	Gambia
 9220914	Malawi
+9220938	Guyana
 9220940	MALI
 9220952	Angola
-9221267	Aruba
+9221267	Nicaragua
 9221475	Nicaragua
 9221657	Tonga
 9223540	Nicaragua
 9224271	Guyana
 9224295	Nicaragua
 9224439	Cameroon
-9224465	Comoros
+9224465	Nicaragua
 9224790	MALI
 9226011	Guyana
+9226968	Nicaragua
 9228538	Aruba
 9228784	MALI
 9229362	Curacao
@@ -337,11 +353,13 @@
 9235244	Aruba
 9235464	Curacao
 9235713	Timor Leste
-9235725	Gambia
+9235725	Cameroon
 9235737	Eswatini
 9236248	Mozambique
 9236250	Botswana
-9237228	Aruba
+9236652	Aruba
+9237084	Comoros
+9237228	Malawi
 9237412	Malawi
 9237539	Guyana
 9237618	Sint Maarten
@@ -349,6 +367,7 @@
 9238052	Tonga
 9238492	Tanzania
 9239989	Curacao
+9240158	Equatorial Guinea
 9240885	Malawi
 9240914	Cook Islands
 9241114	Malawi
@@ -366,7 +385,6 @@
 9247780	Curacao
 9248473	Malawi
 9248497	Comoros
-9249087	Guinea
 9249324	Guyana
 9249685	Sao Tome & Principe
 9250505	Panama
@@ -390,6 +408,7 @@
 9257137	Cook Islands
 9257242	Timor Leste
 9257711	MALI
+9258521	Timor Leste
 9258650	Curacao
 9258674	Comoros
 9258870	Guyana
@@ -397,19 +416,24 @@
 9259197	Guyana
 9259367	Curacao
 9259927	MALI
+9260055	Guyana
 9260067	Botswana
 9262156	Botswana
 9262168	Eswatini
+9262754	Malawi
+9263227	Mozambique
 9263382	Guinea
 9263643	Cook Islands
 9264881	Comoros
+9266841	Zimbabwe
 9266853	Comoros
-9267950	Botswana
+9267950	Anguilla
 9267962	Botswana
 9268112	Mozambique
 9269403	Madagascar
-9271406	Comoros
-9273002	Madagascar
+9271406	Syrian Arab Republic
+9271896	MALI
+9273002	MALI
 9273052	Eswatini
 9273337	Botswana
 9274331	Eswatini
@@ -421,14 +445,15 @@
 9276585	Malawi
 9277371	MALI
 9277735	Guinea
+9278698	Haiti
 9280366	Sint Maarten
 9280873	Guinea
 9281152	Panama
 9281554	Curacao
 9281683	Comoros
-9281695	Curacao
+9281695	Malawi
 9282041	Comoros
-9282106	Angola
+9282106	Guatemala
 9282479	Timor Leste
 9282481	Cameroon
 9282493	Madagascar
@@ -438,15 +463,16 @@
 9284594	Sint Maarten
 9285847	MALI
 9288019	Comoros
-9288095	San Marino
 9288265	Curacao
 9288863	Cameroon
 9288875	Comoros
 9289491	Curacao
 9289520	Sint Maarten
-9289738	Cameroon
+9289726	Cameroon
 9289776	Benin
+9290086	Malawi
 9290359	Mozambique
+9290397	Cameroon
 9292163	Cook Islands
 9292486	Mozambique
 9292981	Aruba
@@ -454,11 +480,10 @@
 9293741	Botswana
 9294240	Gambia
 9294331	Mozambique
-9296391	Cameroon
 9296822	Panama
-9297101	MALI
+9297101	Nicaragua
 9297319	San Marino
-9298492	Madagascar
+9298492	Cameroon
 9299563	Mozambique
 9299707	Madagascar
 9299719	Comoros
@@ -467,31 +492,34 @@
 9301005	Cook Islands
 9301615	Guinea
 9302023	Djibouti
+9302566	Comoros
 9303754	Guyana
 9304655	Sint Maarten
 9304667	Guyana
 9305609	Mozambique
-9306548	Angola
+9306548	Guatemala
 9307633	Aruba
-9307748	Angola
+9307748	Nicaragua
 9307932	Panama
 9308778	Mozambique
 9308998	Syrian Arab Republic
-9309227	Aruba
+9309227	Nicaragua
 9309239	Curacao
 9309576	MALI
 9312494	Mozambique
 9313242	Comoros
 9315654	Guyana
 9318022	Comoros
-9318618	Mozambique
-9320738	Zimbabwe
+9318618	Cameroon
+9320738	Guatemala
 9320843	Curacao
 9321421	Guyana
+9321677	Cameroon
 9321718	Comoros
 9321976	Timor Leste
 9324277	Guyana
 9326055	Malawi
+9326067	Comoros
 9326902	Sint Maarten
 9327413	Guinea
 9328170	Madagascar
@@ -517,52 +545,62 @@
 9365764	Botswana
 9365776	Benin
 9371608	Malawi
-9379404	Angola
+9379301	Cameroon
 9379698	Tonga
 9379703	Guyana
 9380570	Nicaragua
 9382073	Aruba
 9385233	Mozambique
+9386304	Nicaragua
+9387152	Nicaragua
 9387279	Guinea
 9387762	Aruba
-9388027	Madagascar
+9388027	Cameroon
 9388792	Cameroon
 9389667	Comoros
+9390587	Cameroon
 9392822	Syrian Arab Republic
 9397080	Angola
 9399167	MALI
 9400980	Comoros
-9408695	Madagascar
-9409467	Guinea
+9404508	Guyana
+9408695	Cameroon
 9409986	Nicaragua
+9410387	Mozambique
 9411288	Guinea
 9412282	Eswatini
 9417464	Comoros
 9417490	Curacao
+9418999	Comoros
 9422847	MALI
 9422859	Cook Islands
 9425681	Comoros
 9430272	Syrian Arab Republic
-9430715	Cook Islands
-9433016	Madagascar
+9430715	MALI
+9433016	Cameroon
 9436484	Comoros
-9439541	Madagascar
+9439541	Cameroon
+9450715	Aruba
 9453729	Nicaragua
 9454149	Nicaragua
 9463528	MALI
 9464156	Madagascar
 9473016	GABON
+9480825	MALI
 9501928	Tanzania
+9506693	Comoros
+9509097	Guyana
 9511911	Tanzania
 9526693	Timor Leste
-9534614	Angola
+9534614	Nicaragua
 9546708	Guyana
-9546710	Madagascar
-9546722	Madagascar
+9546710	Nicaragua
+9546722	Nicaragua
 9554822	Comoros
 9554834	Comoros
 9572111	Guinea
 9594327	St Vincent and Grenadines
+9606845	Anguilla
 9642277	Tanzania
 9662643	Panama
 9667813	St Vincent and Grenadines
@@ -575,5 +613,3 @@
 9815836	Tanzania
 9824801	Samoa
 9824813	Samoa
-9830769	MALI
-9934498	MALI
